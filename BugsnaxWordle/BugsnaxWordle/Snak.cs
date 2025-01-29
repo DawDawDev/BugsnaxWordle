@@ -8,6 +8,7 @@ namespace BugsnaxWordle
 {
     public class Snak
     {
+        public int ID { get; set; } //ID of the Snak
         public string Name { get; set; } //Name of the Snak
         public string Type { get; set; } //Sweet, Spicy, etc.
         public string Diet { get; set; } //What sauce they like

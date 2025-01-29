@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BugsnaxWordle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134d27b05c9d1538921caa61e360df928e06283b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4f4e4133a2d79726d95f39822ce710a5472185")]
 [assembly: System.Reflection.AssemblyProductAttribute("BugsnaxWordle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BugsnaxWordle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

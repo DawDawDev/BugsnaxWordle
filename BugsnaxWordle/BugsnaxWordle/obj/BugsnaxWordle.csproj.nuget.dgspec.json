@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj": {}
+    "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj": {}
   },
   "projects": {
-    "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj": {
+    "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj",
+        "projectUniqueName": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj",
         "projectName": "BugsnaxWordle",
-        "projectPath": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj",
+        "projectPath": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle.csproj",
         "packagesPath": "C:\\Users\\pantu\\.nuget\\packages\\",
-        "outputPath": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\obj\\",
+        "outputPath": "E:\\BugsnaxWordle\\BugsnaxWordle\\BugsnaxWordle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"
