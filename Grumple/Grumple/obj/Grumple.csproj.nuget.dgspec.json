@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BugsnaxWordle\\Wumple\\Wumple\\Wumple.csproj": {}
+    "E:\\BugsnaxWordle\\Grumple\\Grumple\\Grumple.csproj": {}
   },
   "projects": {
-    "E:\\BugsnaxWordle\\Wumple\\Wumple\\Wumple.csproj": {
+    "E:\\BugsnaxWordle\\Grumple\\Grumple\\Grumple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BugsnaxWordle\\Wumple\\Wumple\\Wumple.csproj",
-        "projectName": "Wumple",
-        "projectPath": "E:\\BugsnaxWordle\\Wumple\\Wumple\\Wumple.csproj",
+        "projectUniqueName": "E:\\BugsnaxWordle\\Grumple\\Grumple\\Grumple.csproj",
+        "projectName": "Grumple",
+        "projectPath": "E:\\BugsnaxWordle\\Grumple\\Grumple\\Grumple.csproj",
         "packagesPath": "C:\\Users\\pantu\\.nuget\\packages\\",
-        "outputPath": "E:\\BugsnaxWordle\\Wumple\\Wumple\\obj\\",
+        "outputPath": "E:\\BugsnaxWordle\\Grumple\\Grumple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"
